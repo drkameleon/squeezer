@@ -1,2 +1,2 @@
-# squeezer
+# Squeezer
  | Compile. Minify. Compress.
