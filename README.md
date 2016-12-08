@@ -2,6 +2,10 @@
 ### Compile. Minify. Compress.
 -----
 
+### @ [www.squeezerapp.com](https://www.squeezerapp.com)
+
+-----
+
 ## The (Web) Developer's pal. For Mac.
 
 Tired of having to compile your scripts manually? Do you want to optimize your website images? Do you really want to speed up your website by shaving off unnecessary file bulk?
@@ -32,18 +36,18 @@ Grab some coffee and have all your files done by the time you get back to your d
 
 ### Supported Files/Formats
 
-![html](http://www.squeezerapp.com/images/html.min.png)
 - **HTML**   
 Markup minification done efficiently.
 
-![css](http://www.squeezerapp.com/images/css.min.png)
 - **Stylesheets**   
 Be it pure CSS, LESS, Stylus, SCSS or SASS, Squeezer will take care of compiling and compressing your stylesheets
 
-![js](http://www.squeezerapp.com/images/js.min.png)
 - **Scripts**   
 Pure JavaScript, new-generation ES6 (Babel), CoffeeScript or TypeScript. Now, all your scripts can be instantly compiled and compressed - without worrying about configurations
 
-![png](http://www.squeezerapp.com/images/png.min.png)
 - **Images**   
 Optimize and shrink all of your images: PNG, JPG or SVG
+
+-----
+
+Copyright (c) 2010-2016, Dr.Kameleon (*aka* Yanis Zafiropulos)
