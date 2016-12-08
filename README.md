@@ -26,6 +26,8 @@ Want to open/preview your converted files? Here you are!
 - **Ultra-fast**   
 Grab some coffee and have all your files done by the time you get back to your desk.
 
+![screenshot](http://www.squeezerapp.com/images/slide_5.png)
+
 -----
 
 ### Supported Files/Formats
@@ -34,14 +36,14 @@ Grab some coffee and have all your files done by the time you get back to your d
 - **HTML**   
 Markup minification done efficiently.
 
-![css](http://www.squeezerapp.com/images/css.min.png) ![less](http://www.squeezerapp.com/images/less.min.png) ![stylus](http://www.squeezerapp.com/images/stylus.min.png)
+![css](http://www.squeezerapp.com/images/css.min.png)
 - **Stylesheets**   
 Be it pure CSS, LESS, Stylus, SCSS or SASS, Squeezer will take care of compiling and compressing your stylesheets
 
-![js](http://www.squeezerapp.com/images/js.min.png) ![coffee](http://www.squeezerapp.com/images/coffee.min.png) ![ts](http://www.squeezerapp.com/images/ts.min.png) ![babel](http://www.squeezerapp.com/images/babel.min.png)
+![js](http://www.squeezerapp.com/images/js.min.png)
 - **Scripts**   
 Pure JavaScript, new-generation ES6 (Babel), CoffeeScript or TypeScript. Now, all your scripts can be instantly compiled and compressed - without worrying about configurations
 
-![png](http://www.squeezerapp.com/images/png.min.png) ![jpeg](http://www.squeezerapp.com/images/jpeg.min.png)
+![png](http://www.squeezerapp.com/images/png.min.png)
 - **Images**   
 Optimize and shrink all of your images: PNG, JPG or SVG
