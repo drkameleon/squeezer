@@ -1,5 +1,6 @@
-# Squeezer
-##  Compile. Minify. Compress.
+![squeezerlogo](http://www.squeezerapp.com/images/icon_32x32@2x.png) ![squeezerlogo2](http://www.squeezerapp.com/images/logo2.png)
+# Squeezer | Compile. Minify. Compress.
+### 
 
 -----
 
